@@ -7,7 +7,6 @@ This project is a sorting visualizer built using React and TypeScript. It allows
 ## Features
 
 * **Multiple Sorting Algorithms:**  Visualizes various sorting algorithms like bubble sort, insertion sort, merge sort, quick sort, and more.
-* **Interactive Controls:** Allows users to customize the number of elements to sort, the sorting speed, and select the algorithm to visualize.
 * **Clear Visualization:** Uses animated bars to represent elements, providing a visual representation of the sorting process.
 
 ## Installation
